@@ -1,4 +1,4 @@
-var schoolName = 'Synergetic V68 College - Single Database';
+var schoolName = 'Simons Synergetic V68 College - Single Database';
 
 //usage:
 
@@ -6,9 +6,9 @@ $(document).ready(function() {
 
     document.title = schoolName;
     $('#NavbarSchoolNameID').text(schoolName);
-    $('#NavbarSchoolNameID').css('color', 'green');
-	$('#SynNavBarHeaderID').css('background-color', 'green');
-	$('.list-group-item.active').css('border-color', 'green');
+    $('#NavbarSchoolNameID').css('color', 'blue');
+	$('#SynNavBarHeaderID').css('background-color', 'blue');
+	$('.list-group-item.active').css('border-color', 'blue');
     $('#BodyHeaderPanelSchoolNameID').text(schoolName);
 		
 
